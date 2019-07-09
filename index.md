@@ -1,0 +1,14 @@
+{{indexmenu_n>0}}
+
+# IPv6转换功能
+
+IPv6转换功能，可为现有的IPv4的EIP生成一个对应的IPv6地址，提供将IPv6访问流量转换为IPv4流量的能力。开启IPv6转换功能后，无需对现有的IPv4网络业务架构进行改造，即可对外提供IPv6的访问。
+
+``` 
+ 注：目前IPv6转换功能处于公测阶段，仅对上海二地域开放。如需开通权限，请联系客户经理。
+```
+
+**目录：**
+
+![skipfile=/^(network:ipv6translation:concepts)$/ nsort dsort
+msort](/indexmenu\>/network/ipv6translation#1)

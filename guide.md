@@ -2,18 +2,16 @@
 
 {{indexmenu_n>4}}
 
-![nsort dsort msort](/images/indexmenu\>/network/ipv6translation/guide#2)
-
 ### 开启IPv6转换功能
 
 可开启IPv6转换功能的页面有外网弹性IP管理页面、详情页以及云主机管理页面-网络详情页。开启IPv6转换功能后，会为当前的EIP分配一个IPv6地址。
 
 外网弹性IP管理页面，开启IPv6转换功能。
-![image](/images/network/ipv6translation/briefguide/开启ipv6转换.png)
+![](/images/briefguide/开启ipv6转换.png)
 
-外网弹性IP详情页面，开启IPv6转换功能。 ![image](/network/ipv6translation/详情开启ipv6转换.png)
+外网弹性IP详情页面，开启IPv6转换功能。 ![](/images/详情开启ipv6转换.png)
 
-云主机-网络详情页面，开启IPv6转换功能。 ![image](/network/ipv6translation/主机开启ipv6.png)
+云主机-网络详情页面，开启IPv6转换功能。 ![](/images/主机开启ipv6.png)
 
 ### 查看带宽监控
 
@@ -21,7 +19,7 @@
 
 IPv6带宽监控，仅包含该EIP的IPv6地址的带宽数据。IPv6监控包括入向带宽监控和出向带宽监控。
 
-![image](/images/network/ipv6translation/ipv6带宽监控.png)
+![](/images/ipv6带宽监控.png)
 
 ### 调整带宽
 
@@ -31,11 +29,11 @@ EIP的IPv4地址和IPv6地址共享EIP的带宽，因此只需要调整EIP的带
 
 外网弹性IP管理页，调整EIP带宽。
 
-![image](/images/network/ipv6translation/eip调整带宽.png)
+![](/images/eip调整带宽.png)
 
-外网弹性IP详情页，调整EIP带宽。 ![image](/network/ipv6translation/eip详情调整带宽.png)
+外网弹性IP详情页，调整EIP带宽。 ![](/images/eip详情调整带宽.png)
 
-云主机管理页面-网络详情页，调整EIP带宽。 ![image](/network/ipv6translation/主机调整带宽.png)
+云主机管理页面-网络详情页，调整EIP带宽。 ![](/images/主机调整带宽.png)
 
 ### 调整计费方式
 
@@ -47,14 +45,14 @@ EIP的IPv4地址和IPv6地址统一以EIP资源进行计费，调整EIP的计费
 
 “移入共享带宽”支持带宽计费和流量计费方式转换为共享带宽计费方式。
 
-![image](/images/network/ipv6translation/更改计费方式.png)
+![](/images/更改计费方式.png)
 
 ### 关闭IPv6转换功能
 
 可关闭IPv6转换功能的页面有外网弹性IP管理页面、详情页以及云主机管理页面-网络详情页。关闭IPv6转换功能后，当前的IPv6地址将被回收。
 
-外网弹性IP管理页面，关闭IPv6转换功能。 ![image](/network/ipv6translation/关闭ipv6转换.png)
+外网弹性IP管理页面，关闭IPv6转换功能。 ![](/images/关闭ipv6转换.png)
 
-外网弹性IP详情页面，关闭IPv6转换功能。 ![image](/network/ipv6translation/详情关闭ipv6转换.png)
+外网弹性IP详情页面，关闭IPv6转换功能。 ![](/images/详情关闭ipv6转换.png)
 
-云主机-网络详情页面，关闭IPv6转换功能。 ![image](/network/ipv6translation/主机关闭ipv6转换.png)
+云主机-网络详情页面，关闭IPv6转换功能。 ![](/images/主机关闭ipv6转换.png)

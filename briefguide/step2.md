@@ -8,4 +8,4 @@
 
 3）绑定成功后，可看到EIP的状态变为已绑定，并可查看已绑定的资源信息。此时该云主机可对外提供IPv4的访问。
 
-![image](/images/network/ipv6translation/briefguide/绑定云资源.png)
+![](/images/briefguide/绑定云资源.png)

@@ -6,4 +6,4 @@
 
 **目录**
 
-![nsort dsort msort](/images/indexmenu\>/network/ipv6translation/briefguide/#1)
+{{indexmenu>:network:ipv6translation/briefguide/#2 | nsort dsort msort}}

@@ -8,8 +8,8 @@
 
 3）开启后，会为当前的EIP分配一个IPv6地址，此时该云主机可对外提供IPv6的访问。
 
-![image](/images/network/ipv6translation/briefguide/开启ipv6转换.png)
+![](/images/briefguide/开启ipv6转换.png)
 
-![image](/images/network/ipv6translation/briefguide/开启确认.png)
+![](/images/briefguide/开启确认.png)
 
-![image](/images/network/ipv6translation/briefguide/ipv6地址.png)
+![](/images/briefguide/ipv6地址.png)

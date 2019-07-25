@@ -10,4 +10,4 @@
 
 3）创建成功后，该EIP只有一个IPv4地址。可在页面上查看所申请的EIP资源，并对其进行管理，例如调整带宽、绑定资源、查看带宽监控等操作。
 
-![image](/images/briefguide/申请eip.png)
+![](/images/briefguide/申请eip.png)

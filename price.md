@@ -2,6 +2,6 @@
 
 {{indexmenu_n>2}}
 
-IPv6转换功能免费使用，IPv6产生的带宽费用结算在EIP费用中。
+IPv6转换功能30元/月/次，IPv6地址与EIP地址共享EIP的带宽值。
 
-具体价格参考[弹性IP价格](/network/unet/eip_price)。
+具体价格参考[EIP价格](/network/unet/eip_price)。

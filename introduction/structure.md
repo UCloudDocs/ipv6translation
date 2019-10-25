@@ -1,6 +1,6 @@
 # 原理架构
 
-{{indexmenu_n>1}}
+
 
 ![](/images/introduction/nat64架构.png)
 

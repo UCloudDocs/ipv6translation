@@ -1,6 +1,6 @@
 # FAQ
 
-{{indexmenu_n>100}}
+
 
 ## 关闭IPv6转换功能后，IPv6地址是否保留？
 

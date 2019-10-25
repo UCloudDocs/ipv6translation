@@ -1,4 +1,4 @@
-{{indexmenu_n>0}}
+
 
 # IPv6转换功能
 
@@ -10,5 +10,5 @@ IPv6转换功能，可为现有的IPv4的EIP生成一个对应的IPv6地址，�
 
 **目录：**
 
-{{indexmenu>:network:ipv6translation#1 | nsort dsort msort}}
+
 

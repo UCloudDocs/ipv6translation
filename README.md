@@ -1,6 +1,6 @@
-<div class="sidebar_title"> IPv6转换功能</div>
+# 概览
 
-* [概览](/ipv6translation/README)
+
 * 产品简介
     * [原理架构](/ipv6translation/introduction/structure)
     * [产品优势](/ipv6translation/introduction/advantages)
